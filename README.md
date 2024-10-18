@@ -1,6 +1,6 @@
 Pizza Paradise
 
-## Descrição
+
 
 Pizza Paradise é um site de compra de pizzas que permite aos usuários navegar pelo menu, escolher seus sabores favoritos e realizar pedidos de forma fácil e rápida. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
